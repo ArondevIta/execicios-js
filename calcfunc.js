@@ -1,3 +1,7 @@
+/*
+ Modifique a calculadora do exercício anterior para que ela 
+ receba 2 números e uma função, e realize o cálculo. Exemplo:
+*/
 const calculadoraFn = (num1, op, num2) => op(num1, num2)
 
 const soma = (num1, num2) => num1+num2
