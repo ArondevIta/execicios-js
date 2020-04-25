@@ -3,6 +3,7 @@ Uma função é chamada da seguinte forma:
 calculadora(10, '+', 20)
 crie o corpo da função de forma que ela realize as 4 operações aritméticas
 */
+
 let num1, num2, op
 num1 = prompt('digite o primeiro valor ')
 num2 = prompt('digite o segundo valor')
